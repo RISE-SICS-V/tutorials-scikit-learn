@@ -13,7 +13,7 @@ Contact: <a href="https://twitter.com/glouppe">@glouppe</a> | BSD 3-clause licen
 ```
 conda install numpy scipy scikit-learn jupyter matplotlib 
 ```
-
+learn
 3) Clone this repository and start Jupyter
 ```
 git clone https://github.com/glouppe/tutorial-scikit-learn.git
@@ -22,6 +22,7 @@ jupyter notebook
 ```
 
 ## Launch on Binder without installing anything!
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/glouppe/tutorial-scikit-learn)
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/RISE-SICS-V/tutorials-scikit-learn/master
+)
 
 
