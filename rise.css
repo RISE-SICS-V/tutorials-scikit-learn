@@ -1,0 +1,9 @@
+body {
+  height: 70%
+  width: 70%
+  
+  background-image: url(img/RiseLogo_100x120@2x.png) !important;
+  background-size: 8%;
+  background-repeat: no-repeat;
+  background-position: 96% 96%;
+}
