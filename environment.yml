@@ -8,5 +8,4 @@ dependencies:
   - pandas
   - scikit-learn
   - pandas
-  - pandas_datareader
   - rise
