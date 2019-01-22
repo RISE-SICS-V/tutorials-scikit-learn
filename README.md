@@ -11,7 +11,7 @@ Based on a work by <a href="https://twitter.com/glouppe">@glouppe</a> | BSD 3-cl
 
 2) Install dependencies:
 ```
-conda install numpy scipy scikit-learn jupyter matplotlib 
+conda install numpy scipy scikit-learn jupyter matplotlib pandas
 ```
 learn
 3) Clone this repository and start Jupyter
